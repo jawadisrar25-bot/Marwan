@@ -15,3 +15,6 @@ Output Directory: leave empty
 Install Command: leave empty
 
 Important: PHP is included only for PHP hosting. Vercel and GitHub Pages do not run PHP. The HTML contact page works without PHP.
+
+
+UPDATE: All 14 new kitchen leadership photos were added. They are embedded directly inside the HTML, so they do not depend on image folder paths on Vercel or GitHub Pages.
