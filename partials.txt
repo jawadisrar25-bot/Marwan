@@ -1,0 +1,1 @@
+This project intentionally uses plain HTML/CSS/JS for GitHub Pages and Vercel compatibility. contact.php is optional for PHP-capable hosting.
